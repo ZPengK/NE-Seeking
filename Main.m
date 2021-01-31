@@ -116,7 +116,7 @@ grid on
 set(gca,'GridLineStyle',':','GridColor','k','GridAlpha',1);
 box on
 set(axes1,'FontSize',12,'FontName','Times New Roman');
-h3=xlabel('Iteration (k) ');
+h3=xlabel('Time (k) ');
 set(h3,'Interpreter','none','FontSize',12,'FontName','Times New Roman');
 h4=ylabel('${x}_{i,k}$ ');
 set(h4,'Interpreter','latex','FontSize',14)
@@ -135,7 +135,7 @@ grid on
 set(gca,'GridLineStyle',':','GridColor','k','GridAlpha',1);
 box on
 set(axes1,'FontSize',12,'FontName','Times New Roman');
-h3=xlabel('Iteration (k) ');
+h3=xlabel('Time (k) ');
 set(h3,'Interpreter','none','FontSize',12,'FontName','Times New Roman');
 h4=ylabel('$\vec{x}_{k}$ ');
 set(h4,'Interpreter','latex','FontSize',14)
@@ -151,7 +151,7 @@ grid on
 set(gca,'GridLineStyle',':','GridColor','k','GridAlpha',1);
 box on
 set(axes1,'FontSize',12,'FontName','Times New Roman');
-h3=xlabel('Iteration (k) ');
+h3=xlabel('Time (k) ');
 set(h3,'Interpreter','none','FontSize',12,'FontName','Times New Roman');
 h4=ylabel(' Amplitude ');
 set(h4,'Interpreter','none','FontSize',12,'FontName','Times New Roman');
@@ -183,7 +183,7 @@ grid on
 set(gca,'GridLineStyle',':','GridColor','k','GridAlpha',1);
 box on
 set(axes1,'FontSize',12,'FontName','Times New Roman');
-h3=xlabel('Iteration (k) ');
+h3=xlabel('Time (k) ');
 set(h3,'Interpreter','none','FontSize',12,'FontName','Times New Roman');
 h4=ylabel('$\zeta_{i,k}$');
 set(h4,'Interpreter','latex','FontSize',14)
