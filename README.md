@@ -1,0 +1,3 @@
+This program provides a computational implementation of the NE seeking methodology described in the seminal paper:  
+[1] Peng Zhang, Yuan Yuan, Huaping Liu, Zhan Gao. Nash equilibrium seeking for graphic games with dynamic event-triggered mechanism. IEEE Transactions on Cybernetics, 2022, 52(11): 12604-12611.  
+The core algorithms, models, and data processing techniques used in this software are directly based on, and seek to faithfully reproduce, the work presented in the aforementioned literature. This implementation serves as a practical tool for applying the paper's theoretical framework and for replicating or extending its experimental results.
